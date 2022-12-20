@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CasieBarie&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&theme=github_dark">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiebarie&layout=compact&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiebarie&layout=compact&theme=github_dark&langs_count=10">
 </p>
 
 ---
